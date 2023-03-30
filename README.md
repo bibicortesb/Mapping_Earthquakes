@@ -6,6 +6,7 @@
 
 - Leaflet Mapbox
 - GeoMap API
+- D3.js library
 - Tectonic plate data: https://github.com/fraxen/tectonicplates
 
 ## Results
