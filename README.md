@@ -2,10 +2,13 @@
 
 ## Overview
 
+The objective of this project is to show the differences visually spot earthquake data in relation to tectonic plates and see all the ones with magnitude greater than 4.5 on a map the last 7 days.
+
+
 ### Resources: 
 
 - Leaflet Mapbox
-- GeoMap API
+- Mapbox API
 - D3.js library
 - Tectonic plate data: https://github.com/fraxen/tectonicplates
 
